@@ -5,6 +5,6 @@ This project has been developed using the [Basic Handwritten Math Symbols Datase
 
 
 Included in this repository:
-- Two ipynb files: One only containing the CNN model (project.ipynb) and one implementing the KD network (project_optimized.ipynb) 
+- Two ipynb files: One only containing the CNN model without KD (project.ipynb) and one implementing the KD network (project_optimized.ipynb) 
 - Test images for the calculator 
 - Pretrained models of the teacher, student and KD student 
