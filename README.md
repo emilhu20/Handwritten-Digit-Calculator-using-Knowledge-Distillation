@@ -30,11 +30,14 @@ Furthermore, the following packages and libraries are used in the project
 Bastian Aron Kramer<br/>
 Email: 201908709@post.au.dk<br/>
 StudyID: 201908709
+GitHub: https://github.com/Basaron
 
 Emil Chao Hu<br/>
 Email: 201907692@post.au.dk<br/>
 StudyID: 201907692
+GitHub: https://github.com/emilhu20
 
 Magnus Trøjgård Tang<br/>
 Email: 201904915@post.au.dk<br/>
 StudyID: 201904915
+GitHub: https://github.com/tangmagnus
